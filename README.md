@@ -9,6 +9,7 @@ In this codelab, you'll create a simple mobile Flutter app. If you're familiar w
 
 You`ll implement a simple app that generates proposed names for a startup company. The user can select and unselect names, saving the best ones. The code lazily generates 10 names at a time. As the user scrolls, more names are generated. There is no limit to how far a user can scroll.
 The following animated GIF shows how the app works at the completion of part:
+
 ![](https://codelabs.developers.google.com/static/codelabs/first-flutter-app-pt1/img/e3624172607d5551.gif)
 
 ***3. Create the starter Flutter app***
